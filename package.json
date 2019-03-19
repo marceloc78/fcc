@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "description": "A simple Node app built on Express, instantly up and running.",
   "main": "server.js",
-  "author": "Marcelo",
+  "author": "Marcelo Cabrera",
   "scripts": {
     "start": "node server.js"
   },
